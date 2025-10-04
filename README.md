@@ -1,15 +1,15 @@
 # Hospital pateint data analysis
 
-##Content 
-###Outline
-###Goals
-###Layout
-###Technologies
-###System Design
-##Schema Design
-###Development Process
-###Data Analysis
-###Outcome
+## Content 
+### Outline
+### Goals
+### Layout
+### Technologies
+### System Design
+## Schema Design
+### Development Process
+### Data Analysis
+### Outcome
 
 
 
