@@ -1,4 +1,5 @@
-# Hospital pateint data analysis
+# Hospital pateint data analysis using Azure
+Azure PySpark Azure Data Factory Azure Synapse Python Databricks PowerBI Git
 
 ## Content 
 #### Outline
