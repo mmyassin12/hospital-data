@@ -60,9 +60,7 @@ Implemented Git for version management.
 #### Schema Design
 The data in the Gold layer in the Severless SQL Pool is structured using a star schema:
 *	Fact Table: Fact_patient – Captures patient visit details, timestamps, wait durations, and discharge information.
-*	Dimension Tables:
-  1. Dim_Department – Contains department-related attributes.
-  2. Dim_Patient – Stores patient demographic details.
+*	Dimension Tables: 1. Dim_Department – Contains department-related attributes. 2. Dim_Patient – Stores patient demographic details.
     
 #### Data Analysis
 ###### Synapse to Power BI Integration
