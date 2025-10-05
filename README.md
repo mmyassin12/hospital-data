@@ -58,7 +58,7 @@ Executed schema creation and fact/dimension table scripts
 Implemented Git for version management.
 
 #### Schema Design
-The data in the Gold layer in Severless SQL Pool is structured using a star schema:
+The data in the Gold layer in the Severless SQL Pool is structured using a star schema:
 *	Fact Table: Fact_patient – Captures patient visit details, timestamps, wait durations, and discharge information.
 *	Dimension Tables:
   * Dim_Department – Contains department-related attributes.
