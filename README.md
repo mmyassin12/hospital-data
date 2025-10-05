@@ -29,19 +29,19 @@ Overall, it provides actionable insights to improve hospital operations.
 *	Git – Manage version control.
   
 #### Development Process
-1.	Event Hub Configuration
+###### 1.	Event Hub Configuration
 Set up an Event Hub namespace along with a dedicated patient-flow hub.
  <img width="908" height="475" alt="image" src="https://github.com/user-attachments/assets/b5bf2d7b-b740-4245-b223-a473d1154837" />
 
-2. Data Generation
+###### 2. Data Generation
 Built a Python script to simulate patient data — including department details, wait times, and discharge status — and stream it to Event Hub.
 
-4. Storage Configuration
+###### 4. Storage Configuration
 Deployed Azure Data Lake Storage (ADLS Gen2) for data management.
 Created separate containers for the Bronze, Silver, and Gold data layers.
  <img width="909" height="409" alt="image" src="https://github.com/user-attachments/assets/b1b7adae-cac7-473b-9b32-5c5de011f823" />
 
-5. Databricks Processing Workflow
+###### 5. Databricks Processing Workflow
 *	Notebook 01: Ingests Event Hub streams into the Bronze layer.
 *	Notebook 02: Performs data cleaning and schema validation.
 *	Notebook 03: Aggregates data and constructs star schema tables.
@@ -49,12 +49,12 @@ Created separate containers for the Bronze, Silver, and Gold data layers.
  <img width="938" height="461" alt="image" src="https://github.com/user-attachments/assets/14b392ff-9650-42c6-938f-53eb8aaa4490" />
  <img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/3f895971-464b-4a86-9294-3484e8540be1" />
 
-6. Synapse SQL Pool Setup
+###### 6. Synapse SQL Pool Setup
 Provisioned a Severless SQL Pool in Azure Synapse.
 Executed schema creation and fact/dimension table scripts 
  <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/1a81a73a-77ff-4179-816e-6b968bd4488a" />
 
-7. Version Control Integration
+###### 7. Version Control Integration
 Implemented Git for version management.
 
 #### Schema Design
