@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License Badge">
 </p>
 
-### Tech Stack
-**PySpark** • **Azure Data Factory** • **Azure Synapse** • **Azure Databricks** • **Power BI** • **Git Bash** • **Python**
-
 ---
 
 ## 📑 Table of Contents
@@ -109,8 +106,8 @@ Created separate containers for the **Bronze**, **Silver**, and **Gold** data la
 ---
 
 ### 5️⃣ Synapse SQL Pool Setup
-Provisioned a **Serverless SQL Pool** in Azure Synapse.  
-Executed schema creation and fact/dimension table scripts.
+- Provisioned a **Serverless SQL Pool** in Azure Synapse.  
+- Executed schema creation and fact/dimension table scripts.
 
 <p align="center">
   <img width="940" height="442" src="https://github.com/user-attachments/assets/1a81a73a-77ff-4179-816e-6b968bd4488a" alt="Synapse Setup">
@@ -130,8 +127,8 @@ The **Gold layer** in the **Serverless SQL Pool** follows a **Star Schema** stru
 - **Fact_Patient** – Captures patient visit details, timestamps, wait durations, and discharge info.
 
 ### Dimension Tables
-1. **Dim_Department** – Department-related attributes.  
-2. **Dim_Patient** – Patient demographic details.
+- **Dim_Department** – Department-related attributes.  
+- **Dim_Patient** – Patient demographic details.
 
 ---
 
