@@ -70,7 +70,7 @@ Synapse to Power BI Integration
 *	Imported the Fact and related Dimension tables.
 *	Defined relationships to enable Star Schema–based analytics.
   
-Dashboard Highlights
+##### Dashboard Highlights
 The key operational insights from the Dashboard, include:
 *	Total Bed occupancy by gender.
 *	Department-level KPIs such as average length of stay and total patient count.
