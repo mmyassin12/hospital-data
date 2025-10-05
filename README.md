@@ -20,8 +20,7 @@
 7. [Data Analysis](#-data-analysis)
 8. [Key Learnings](#-key-learnings)
 9. [License](#-license)
-10. [Contributions](#-contributions)
-11. [Author](#-author)
+10. [Author](#-author)
 
 ---
 
