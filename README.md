@@ -65,12 +65,12 @@ The data in the Gold layer in the Severless SQL Pool is structured using a star 
   * Dim_Patient – Stores patient demographic details.
     
 #### Data Analysis
-Synapse to Power BI Integration
+###### Synapse to Power BI Integration
 *	Connected Azure Synapse SQL Pool to Power BI.
 *	Imported the Fact and related Dimension tables.
 *	Defined relationships to enable Star Schema–based analytics.
   
-##### Dashboard Highlights
+###### Dashboard Highlights
 The key operational insights from the Dashboard, include:
 *	Total Bed occupancy by gender.
 *	Department-level KPIs such as average length of stay and total patient count.
