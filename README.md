@@ -55,7 +55,7 @@ Executed schema creation and fact/dimension table scripts
  <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/1a81a73a-77ff-4179-816e-6b968bd4488a" />
 
 ###### 7. Version Control Integration
-Implemented Git for version management.
+Git Bash were used for version management.
 
 #### Schema Design
 The data in the Gold layer in the Severless SQL Pool is structured using a star schema:
