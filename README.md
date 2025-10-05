@@ -1,5 +1,5 @@
 # Hospital pateint data analysis using Azure
-Azure PySpark Azure Data Factory Azure Synapse Python Databricks PowerBI Git
+* PySpark * Azure Data Factory * Azure Synapse * Azure Databricks * PowerBI * Git Bash * Python
 
 ## Content 
 
