@@ -12,7 +12,6 @@ This enables advanced analytics and interactive visualizations.
 Overall, it provides actionable insights to improve hospital operations.
 #### Visual outline
  <img width="972" height="600" alt="image" src="https://github.com/user-attachments/assets/f8a5f4a9-8082-4cf0-bc99-291ab4bed5b9" />
-
 #### Goals
 * Capture real-time patient data using Azure Event Hub.
 *	Process and refine data in Databricks following the Bronze–Silver–Gold architecture.
