@@ -14,10 +14,11 @@ Overall, it provides actionable insights to improve hospital operations.
 
 #### Goals
 * Capture real-time patient data using Azure Event Hub.
-	Process and refine data in Databricks following the Bronze–Silver–Gold architecture.
-	Design a star schema in Azure Synapse SQL Pool for efficient querying.
-	Build an interactive dashboard using Power BI
-	Implement version control and collaboration through Git
+*	Process and refine data in Databricks following the Bronze–Silver–Gold architecture.
+*	Design a star schema in Azure Synapse SQL Pool for efficient querying.
+*	Build an interactive dashboard using Power BI
+*	Implement version control and collaboration through Git
+  
 #### Technologies
 	Azure Event Hub – Ingest real-time streaming data.
 	Azure Databricks – Perform ETL processing using PySpark.
