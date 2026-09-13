@@ -41,9 +41,6 @@ Overall, this solution delivers **actionable insights** to improve hospital work
 
 ## 🧭 Visual Outline
 <p align="center">
-  <img width="972" height="600" src="https://github.com/user-attachments/assets/f8a5f4a9-8082-4cf0-bc99-291ab4bed5b9" alt="Architecture Overview">
-</p>
-
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/9d69deb1-894e-4b23-9d23-3e13d3829a56" />
 
 
